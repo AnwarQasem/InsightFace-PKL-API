@@ -23,8 +23,8 @@ This project provides a FastAPI-based service for processing images, generating 
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/AnwarQasem/InsightFace-PKL-API.git
+   cd InsightFace-PKL-API
    ```
 
 2. Create and activate a virtual environment:
